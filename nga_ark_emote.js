@@ -13,7 +13,7 @@
 // @match        *://ngacn.cc/*
 // @grant        none
 // @require      https://greasyfork.org/scripts/39014-nga-user-script-loader/code/NGA%20User%20Script%20Loader.js
-// @license      MIT License
+// @license      none
 // ==/UserScript==
 
 //本脚本由间桐咕哒子@NGA(http://bbs.ngacn.cc/read.php?tid=11275553)等上修改而来~
