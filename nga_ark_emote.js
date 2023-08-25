@@ -75,6 +75,10 @@
                 //邪魔系列
                 './mon_202209/01/-4qiozQo38p-hxt6Z19T3cShm-o0.gif',//彩ac
                 './mon_202209/24/kfQ182-g6ieZqT3cSk0-jq.jpg',//粉毛逃避责任
+                './mon_202308/11/l2Q2s-6awgK2fT1kSd2-bz.jpg.thumb.jpg',//流水厨
+                './mon_202308/21/l2Qjr4-hswiK1pT3cSpe-yt.jpg',//尖叫抓绕
+                './mon_202308/23/l2Q0-fgbnK15T1kSeq-c0.jpg',//自动下原神
+                './mon_202308/24/l2Q7i87-kcrrK12T1kShs-b4.jpg',//不服
                 //oth
             ],
             addPic: function(biu){
